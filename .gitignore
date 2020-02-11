@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# data files
-# /data
+# .vscode settings
+.vscode
